@@ -1,8 +1,8 @@
-### Tezbars' Public Scripts
+### tezcripts
 
 # License
 
-    Tezbars Public Scripts
+    tezcripts
     Copyright (C) 2024 tezbars
 
     This program is free software: you can redistribute it and/or modify
